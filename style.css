@@ -1,0 +1,47 @@
+ul li {
+    list-style: none;
+    padding: 0;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+a,
+a:visited,
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+/*HEADER*/
+header {
+    word-wrap: break-word;
+    background: #122ed0;
+}
+
+nav {
+    background: #c41313;
+}
+
+/*TABLE*/
+.nechet {
+    background: #f70101;
+}
+
+.col-name {
+    color:rgb(0, 0, 0);
+    background: #122ed0;
+}
+
+.table {
+    margin: 0 0 0 17px;
+}
+
+/*FOOTER*/
+.footer {
+    background: #c41313;
+}
